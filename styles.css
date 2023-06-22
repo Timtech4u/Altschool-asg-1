@@ -1,0 +1,2303 @@
+
+
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  width: 1440px;
+  height: 5486px;
+  position: relative;
+  overflow: hidden;
+}
+.group-19 {
+  position: absolute;
+  inset: 0;
+  width: 1440px;
+}
+.hero-section {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.aurora {
+  position: absolute;
+  inset: 0;
+}
+.bg-aurora {
+  background: var(--foundation-red-normal, #d60505);
+  border-radius: 50%;
+  width: 199.1px;
+  height: 215.08px;
+  position: absolute;
+  left: 191px;
+  top: 0px;
+  filter: blur(350px);
+}
+.bg-aurora2 {
+  background: #067808;
+  border-radius: 50%;
+  width: 199.1px;
+  height: 215.08px;
+  position: absolute;
+  left: 461px;
+  top: 11.9px;
+  filter: blur(350px);
+}
+.bg-aurora3 {
+  background: #eac81f;
+  border-radius: 50%;
+  width: 271px;
+  height: 293px;
+  position: absolute;
+  left: 978px;
+  top: 111.9px;
+  filter: blur(350px);
+}
+.frame-1000001650 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 503px);
+  top: 146px;
+}
+.frame-1000001647 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-1 {
+  flex-shrink: 0;
+  width: 948px;
+  height: 200px;
+  position: static;
+}
+.optimize-your-online-experience-with-our-advanced-url-shortening-solution {
+  text-align: center;
+  font: 400 48px/96px "Gilroy-Bold", sans-serif;
+  position: absolute;
+  left: calc(50% - 474px);
+  top: 0px;
+  width: 948px;
+  height: 200px;
+}
+.optimize-your-online-experience-with-our-advanced-url-shortening-solution-span {
+  color: var(--text-color-maintext, #141414);
+  font: 400 48px/96px "Gilroy-Bold", sans-serif;
+}
+.optimize-your-online-experience-with-our-advanced-url-shortening-solution-span2 {
+  color: var(--primary-400, #005ae2);
+  font: 400 48px/96px "Gilroy-Bold", sans-serif;
+}
+.optimize-your-online-experience-with-our-advanced-url-shortening-solution-span3 {
+  color: var(--text-color-maintext, #141414);
+  font: 400 48px/96px "Gilroy-Bold", sans-serif;
+}
+.vector-3 {
+  position: absolute;
+  left: 397px;
+  top: 167.9px;
+  overflow: visible;
+}
+.personalize-your-shortened-ur-ls-to-align-with-your-brand-identity-utilize-custom-slugs-branded-links-and-domain-customization-options-to-reinforce-your-brand-presence-and-enhance-user-engagement {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 18px/28px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 781px;
+  height: 105px;
+}
+.frame-1000001648 {
+  display: flex;
+  flex-direction: row;
+  gap: 56px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.button {
+  background: var(--primary-300-base, #0065fe);
+  border-radius: 100px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 142px;
+  height: 44px;
+  position: relative;
+  overflow: hidden;
+}
+.sample-cta {
+  color: var(--neutral-white, #ffffff);
+  text-align: left;
+  font: 400 16px/12px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.learn-more {
+  color: var(--primary-300-base, #0065fe);
+  text-align: left;
+  font: 400 16px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.group-3 {
+  position: absolute;
+  left: 0px;
+  top: 931px;
+  overflow: visible;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.vector-2 {
+  position: absolute;
+  left: 296px;
+  top: 725.63px;
+  transform: translate(69.39px, -108.36px);
+  overflow: visible;
+}
+.frame-29546 {
+  background: rgba(254, 254, 254, 0.1);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: var(--primary-400, #005ae2);
+  border-width: 0.5px;
+  padding: 40px 60px 40px 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 359px);
+  top: 631px;
+  backdrop-filter: blur(106px);
+}
+.frame-1000001716 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.link-2 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.link-22 {
+  margin: 0 0 0 -8px;
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.link-23 {
+  margin: 0 0 0 -8px;
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.line-7 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-1px, -5.77px);
+  overflow: visible;
+}
+.link-24 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  gap: 140px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1213px;
+  position: absolute;
+  left: calc(50% - 608px);
+  top: 30px;
+}
+.logo {
+  padding: 8px 8px 8px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.vector9 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.vector-22 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.scissor {
+  color: var(--primary-300-base, #0065fe);
+  text-align: left;
+  font: var(--h-2-bold, 400 24px/32px "Gilroy-Bold", sans-serif);
+  position: relative;
+  width: 99px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1000001643 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.my-ur-ls {
+  color: var(--primary-300-base, #0065fe);
+  text-align: left;
+  font: 400 18px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.group-8 {
+  flex-shrink: 0;
+  width: 100px;
+  height: 24px;
+  position: static;
+}
+.features {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 18px "Gilroy-Medium", sans-serif;
+  position: absolute;
+  left: 109px;
+  top: 1px;
+}
+.chevron-down {
+  position: absolute;
+  left: 185px;
+  top: 0px;
+  overflow: visible;
+}
+.pricing {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 18px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.analytics {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 18px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.fa-qs {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 18px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.frame-1000001645 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 274px;
+  position: relative;
+}
+.log-in {
+  color: var(--primary-300-base, #0065fe);
+  text-align: left;
+  font: 400 16px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.group-18 {
+  position: absolute;
+  inset: 0;
+}
+.desktop-10 {
+  background: #ffffff;
+  padding: 76px 140px 76px 140px;
+  width: 1440px;
+  height: 982px;
+  position: absolute;
+  left: 0px;
+  top: 1025px;
+  overflow: hidden;
+}
+.frame-1000001693 {
+  background: #f9fbfd;
+  padding: 60px 140px 60px 140px;
+  display: flex;
+  flex-direction: row;
+  gap: 120px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 723px);
+  top: 0px;
+}
+.frame-1000001692 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.one-stop-four-possibilities {
+  text-align: left;
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+  position: relative;
+  width: 337px;
+}
+.one-stop-four-possibilities-span {
+  color: var(--text-color-maintext, #141414);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.one-stop-four-possibilities-span2 {
+  color: var(--primary-400, #005ae2);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.one-stop-four-possibilities-span3 {
+  color: var(--text-color-maintext, #141414);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.frame-1000001715 {
+  display: flex;
+  flex-direction: row;
+  gap: 72px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001668 {
+  padding: 0px 4px 0px 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 72px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._3-m {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/40px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.active-users {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 100px;
+  position: relative;
+}
+._60-m {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/40px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.links-qr-codes-created {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 123px;
+  height: 52px;
+}
+.frame-1000001690 {
+  padding: 0px 4px 0px 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 72px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001670 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001669 {
+  display: flex;
+  flex-direction: row;
+  gap: 44px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-6 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._1-b {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/40px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.clicked-scanned-connections {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 143px;
+  height: 56px;
+}
+.frame-72 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._300-k {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/40px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.app-integrations {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.frame-1000001703 {
+  display: flex;
+  flex-direction: row;
+  gap: 96px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 120px;
+  top: 348px;
+}
+.frame-1000001691 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001652 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.line-70 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.why-choose-scissors {
+  text-align: left;
+  font: 400 40px/32px "Gilroy-Bold", sans-serif;
+  position: relative;
+}
+.why-choose-scissors-span {
+  color: var(--text-color-maintext, #141414);
+  font: 400 40px/32px "Gilroy-Bold", sans-serif;
+}
+.why-choose-scissors-span2 {
+  color: var(--primary-400, #005ae2);
+  font: 400 40px/32px "Gilroy-Bold", sans-serif;
+}
+.scissors-is-the-hub-of-everything-that-has-to-do-with-your-link-management-we-shorten-your-ur-ls-allow-you-creating-custom-ones-for-your-personal-business-event-usage-our-swift-qr-code-creation-management-and-usage-tracking-with-advance-analytics-for-all-of-these-is-second-to-none {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/28px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 370px;
+  height: 192px;
+}
+.frame-1000001702 {
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001699 {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001694 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.group-6 {
+  flex-shrink: 0;
+  width: 56px;
+  height: 56px;
+  position: static;
+}
+.link-25 {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  overflow: visible;
+}
+.ellipse-2 {
+  background: rgba(50, 132, 255, 0.13);
+  border-radius: 50%;
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-52 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.url-shortening {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/28px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.scissor-allows-you-to-shorten-ur-ls-of-your-business-events-shorten-your-url-at-scale-url-redirects {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 340px;
+  height: 80px;
+}
+.frame-1000001697 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001695 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.edit {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  overflow: visible;
+}
+.frame-1000001696 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.custom-ur-ls {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/28px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.with-scissor-you-can-create-custom-ur-ls-with-the-length-you-want-a-solution-for-socials-and-businesses {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 340px;
+  height: 71px;
+}
+.frame-1000001701 {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001698 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.grid {
+  position: absolute;
+  left: 15.79px;
+  top: 16.07px;
+  overflow: visible;
+}
+.qr-codes {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/28px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.generate-qr-codes-to-your-business-events-bring-your-audience-and-customers-to-your-doorstep-with-this-scan-and-go-solution {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 340px;
+  height: 80px;
+}
+.frame-1000001700 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001718 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.activity {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  overflow: visible;
+}
+.frame-1000001671 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.data-analytics {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 32px/28px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.receive-data-on-the-usage-of-either-your-shortened-url-custom-ur-ls-or-generated-qr-codes-embedded-to-monitor-progress {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 340px;
+  height: 80px;
+}
+.group-17 {
+  position: absolute;
+  inset: 0;
+}
+.desktop-2 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1073px;
+  position: absolute;
+  left: 0px;
+  top: 1877px;
+  overflow: hidden;
+}
+.group-9 {
+  position: absolute;
+  inset: 0;
+}
+.desktop-102 {
+  background: var(--neutral-white, #ffffff);
+  border-radius: 12px;
+  border-style: solid;
+  border-color: var(--primary-400, #005ae2);
+  border-width: 0.4px;
+  width: 379px;
+  height: 455px;
+  position: absolute;
+  left: 176px;
+  top: 304px;
+  box-shadow: var(--dropshadow-box-shadow, 0px 4px 8px 0px rgba(0, 0, 0, 0.05));
+  overflow: hidden;
+}
+.basic {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 24px/32px "Gilroy-Medium", sans-serif;
+  position: absolute;
+  left: 87px;
+  top: 24px;
+}
+.frame-1000001712 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 87px;
+  top: 90px;
+}
+.frame-1000001705 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.free {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: var(--h-0-bold, 400 40px/48px "Gilroy-Bold", sans-serif);
+  position: relative;
+}
+.free-plan-for-all-users {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 20px/32px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.frame-1000001711 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1000001706 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.check-circle {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.unlimited-url-shortening {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.frame-1000001707 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.check-circle2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.basic-link-analytics {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.frame-1000001708 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.check-circle3 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.customizable-short-links {
+  color: #000000;
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.frame-1000001709 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.check-circle4 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.standard-support {
+  color: #000000;
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.frame-1000001710 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.check-circle5 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ad-supported {
+  color: #000000;
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.desktop-12 {
+  background: var(--neutral-white, #ffffff);
+  border-radius: 12px;
+  border-style: solid;
+  border-color: var(--primary-400, #005ae2);
+  border-width: 0.4px;
+  width: 379px;
+  height: 455px;
+  position: absolute;
+  left: 885px;
+  top: 304px;
+  box-shadow: var(--dropshadow-box-shadow, 0px 4px 8px 0px rgba(0, 0, 0, 0.05));
+  overflow: hidden;
+}
+.teams {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 24px/32px "Gilroy-Medium", sans-serif;
+  position: absolute;
+  left: 80px;
+  top: 26px;
+}
+.frame-10000017122 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 86px;
+  top: 92px;
+}
+._25-month {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: var(--undefined, 400 40px/48px "Gilroy-Bold", sans-serif);
+  position: relative;
+}
+._25-month-span {
+  color: var(--text-color-maintext, #141414);
+  font: var(--h-0-bold, 400 40px/48px "Gilroy-Bold", sans-serif);
+}
+._25-month-span2 {
+  color: var(--text-color-maintext, #141414);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.share-with-up-to-10-users {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 20px/32px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.check-circle6 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.team-collaboration {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.check-circle7 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.user-roles-and-permissions {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.check-circle8 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.enhanced-security {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.check-circle9 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.api-access {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.check-circle10 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.dedicated-account-manager {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.desktop-11 {
+  background: var(
+    --lineargradient,
+    linear-gradient(
+      180deg,
+      rgba(30, 52, 72, 1) 99.98999834060669%,
+      rgba(30, 52, 72, 0) 100%
+    )
+  );
+  border-radius: 12px;
+  width: 410px;
+  height: 627px;
+  position: absolute;
+  left: calc(50% - 205px);
+  top: 218px;
+  box-shadow: var(--dropshadow-box-shadow, 0px 4px 8px 0px rgba(0, 0, 0, 0.05));
+  overflow: hidden;
+}
+.professional {
+  color: var(--neutral-white, #ffffff);
+  text-align: center;
+  font: 400 24px/32px "Gilroy-Medium", sans-serif;
+  position: absolute;
+  left: 65px;
+  top: 95px;
+}
+.frame-10000017123 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 65px;
+  top: 151px;
+}
+._15-month {
+  color: var(--neutral-white, #ffffff);
+  text-align: center;
+  font: var(--undefined, 400 40px/48px "Gilroy-Bold", sans-serif);
+  position: relative;
+}
+._15-month-span {
+  color: var(--neutral-white, #ffffff);
+  font: var(--h-0-bold, 400 40px/48px "Gilroy-Bold", sans-serif);
+}
+._15-month-span2 {
+  color: var(--neutral-white, #ffffff);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.ideal-for-business-creators {
+  color: var(--neutral-white, #ffffff);
+  text-align: center;
+  font: 400 20px/32px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.frame-10000017112 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 200px;
+  position: relative;
+}
+.check-circle11 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.enhanced-link-analytics {
+  color: var(--neutral-white, #ffffff);
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.check-circle12 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.custom-branded-domains {
+  color: var(--neutral-white, #ffffff);
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.check-circle13 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.advanced-link-customization {
+  color: var(--neutral-white, #ffffff);
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.check-circle14 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.priority-support {
+  color: var(--neutral-white, #ffffff);
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.check-circle15 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ad-free-experience {
+  color: var(--neutral-white, #ffffff);
+  text-align: center;
+  font: 400 14px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.frame-1000001719 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 206px);
+  top: 913px;
+}
+.button2 {
+  border-radius: 100px;
+  border-style: solid;
+  border-color: var(--primary-300-base, #0065fe);
+  border-width: 1px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 200px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.sample-cta2 {
+  color: var(--primary-300-base, #0065fe);
+  text-align: left;
+  font: 400 16px/12px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.button3 {
+  background: var(--primary-300-base, #0065fe);
+  border-radius: 100px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 200px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1000001713 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 288px);
+  top: 42px;
+}
+.line-702 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-1000001673 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.a-price-perfect-for-your-needs {
+  text-align: center;
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+  position: relative;
+}
+.a-price-perfect-for-your-needs-span {
+  color: var(--text-color-maintext, #141414);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.a-price-perfect-for-your-needs-span2 {
+  color: var(--primary-400, #005ae2);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.a-price-perfect-for-your-needs-span3 {
+  color: var(--text-color-maintext, #141414);
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+}
+.from-catering-for-your-personal-business-event-socials-needs-you-can-be-rest-assured-we-have-you-in-mind-in-our-pricing {
+  color: var(--text-color-maintext, #141414);
+  text-align: center;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 556px;
+  height: 52px;
+}
+.group-16 {
+  position: absolute;
+  inset: 0;
+}
+.desktop-112 {
+  background: var(
+    --lineargradient,
+    linear-gradient(
+      180deg,
+      rgba(30, 52, 72, 1) 99.98999834060669%,
+      rgba(30, 52, 72, 0) 100%
+    )
+  );
+  width: 1440px;
+  height: 523px;
+  position: absolute;
+  left: 0px;
+  top: 2950px;
+  overflow: hidden;
+}
+.group-22 {
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 1119.23px;
+  top: -84.48px;
+  overflow: visible;
+}
+.group-32 {
+  opacity: 0.5;
+  position: absolute;
+  left: -760.2px;
+  top: 127.05px;
+  overflow: visible;
+}
+.frame-1000001725 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 476px;
+  height: 355px;
+  position: absolute;
+  left: 482px;
+  top: 83.5px;
+}
+.frame-1000001726 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 42px;
+  top: 193px;
+}
+.button4 {
+  background: var(--primary-400, #005ae2);
+  border-radius: 100px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 392px;
+  position: relative;
+  overflow: hidden;
+}
+.sample-cta3 {
+  color: var(--neutral-white, #ffffff);
+  text-align: left;
+  font: 400 14px/12px "Gilroy-SemiBold", sans-serif;
+  position: relative;
+}
+.magic-wand {
+  padding: 4px 4px 4px 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.magic-wand2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-1000001656 {
+  padding: 10px 10px 10px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 392px;
+  position: relative;
+}
+.frame-1000001727 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 42px;
+  top: 42px;
+}
+.frame-1000001653 {
+  border-radius: 12px;
+  border-style: solid;
+  border-color: var(--primary-100, #3284ff);
+  border-width: 1px;
+  padding: 8px 12px 8px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 392px;
+  height: 55px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-10000016522 {
+  padding: 8px 12px 8px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.paste-url-here {
+  color: var(--primary-100, #3284ff);
+  text-align: left;
+  font: 400 12px/18px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.frame-1000001655 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.drop-down {
+  border-radius: 12px;
+  border-style: solid;
+  border-color: var(--primary-100, #3284ff);
+  border-width: 1px;
+  padding: 18px 20px 18px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 202px;
+  height: 48px;
+  position: relative;
+}
+.choose-domain {
+  color: var(--primary-100, #3284ff);
+  text-align: left;
+  font: 400 14px/12px "Gilroy-Medium", sans-serif;
+  position: relative;
+  flex: 1;
+}
+.vector61 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-1000001654 {
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #3284ff;
+  border-width: 1px;
+  padding: 8px 12px 8px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 178px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.type-alias-here {
+  color: var(--primary-100, #3284ff);
+  text-align: left;
+  font: 400 12px/18px "Gilroy-Medium", sans-serif;
+  position: relative;
+}
+.group-15 {
+  position: absolute;
+  inset: 0;
+}
+.fa-qs2 {
+  background: var(--neutral-white, #ffffff);
+  width: 1440px;
+  height: 1153px;
+  position: absolute;
+  left: 0px;
+  top: 3473px;
+  overflow: hidden;
+}
+.frame-10000016532 {
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 396px);
+  top: 43px;
+}
+.line-703 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.fa-qs3 {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 40px/32px "Gilroy-Bold", sans-serif;
+  position: relative;
+}
+.frame-1000001651 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-73 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+.frame-722 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.how-does-url-shortening-work {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 20px/32px "Gilroy-Medium", sans-serif;
+  position: relative;
+  flex: 1;
+}
+.minus {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.url-shortening-works-by-taking-a-long-url-and-creating-a-shorter-condensed-version-that-redirects-to-the-original-url-when-a-user-clicks-on-the-shortened-link-they-are-redirected-to-the-intended-destination {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 16px/32px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 792px;
+  height: 63px;
+}
+.vector-4 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-78 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+.is-it-necessary-to-create-an-account-to-use-the-url-shortening-service {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 20px/32px "Gilroy-Medium", sans-serif;
+  position: relative;
+  flex: 1;
+}
+.plus {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.vector-42 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-80 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+.are-the-shortened-links-permanent-will-they-expire {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 20px/32px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 742px;
+}
+.plus2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.vector-43 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-84 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+.are-there-any-limitations-on-the-number-of-ur-ls-i-can-shorten {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 20px/32px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 741px;
+}
+.plus3 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.vector-44 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-79 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+.can-i-customize-the-shortened-ur-ls-to-reflect-my-brand-or-content {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 20px/32px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 744px;
+}
+.plus4 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.vector-45 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-81 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+.can-i-track-the-performance-of-my-shortened-ur-ls {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 20px/32px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 744px;
+}
+.plus5 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.vector-46 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-82 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+.frame-723 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 70px;
+  position: relative;
+}
+.how-secure-is-the-url-shortening-service-are-the-shortened-links-protected-against-spam-or-malicious-activity {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 20px/32px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 740px;
+  height: 54px;
+}
+.plus6 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.vector-47 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-83 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 792px;
+  position: relative;
+}
+.what-is-a-qr-code-and-what-can-it-do {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 20px/32px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 745px;
+}
+.plus7 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.vector-48 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.is-there-an-api-available-for-integrating-the-url-shortening-service-into-my-own-applications-or-websites {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: 400 20px/32px "Gilroy-Medium", sans-serif;
+  position: relative;
+  width: 742px;
+  height: 53px;
+}
+.plus8 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.vector-49 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.group-33 {
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 349.5px;
+  top: 106.15px;
+  overflow: visible;
+}
+.group-23 {
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 1066px;
+  top: 820.27px;
+  overflow: visible;
+}
+.group-14 {
+  position: absolute;
+  inset: 0;
+}
+.frame-1000001649 {
+  width: 1440px;
+  height: 299px;
+  position: absolute;
+  left: 0px;
+  top: 4626px;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(30, 52, 72, 1) 99.98999834060669%,
+    rgba(30, 52, 72, 0) 100%
+  );
+  width: 1440px;
+  height: 400px;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 199.5px);
+}
+.group-24 {
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 1085.38px;
+  top: -97.5px;
+  overflow: visible;
+}
+.group-34 {
+  opacity: 0.5;
+  position: absolute;
+  left: -342.26px;
+  top: 24.87px;
+  overflow: visible;
+}
+.frame-10000016542 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 403px);
+  top: 109px;
+}
+.revolutionizing-link-optimization {
+  color: #ffffff;
+  text-align: center;
+  font: 400 40px/48px "Gilroy-Bold", sans-serif;
+  position: relative;
+  width: 806px;
+  height: 57px;
+}
+.button5 {
+  background: var(--primary-400, #005ae2);
+  border-radius: 100px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 200px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.group-13 {
+  position: absolute;
+  inset: 0;
+}
+.footer {
+  background: var(--neutral-white, #ffffff);
+  width: 1440px;
+  height: 561px;
+  position: absolute;
+  left: 0px;
+  top: 4925px;
+  overflow: hidden;
+}
+.group-11 {
+  position: absolute;
+  inset: 0;
+}
+.frame-1000001665 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 294px);
+  top: 95px;
+}
+.frame-1000001662 {
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.why-scissor {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.why-scissor2 {
+  color: var(--neutral-900, #071827);
+  text-align: left;
+  font: var(--h-4-bold, 400 16px/24px "Gilroy-Bold", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.p {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.scissor-101-integrations-api-pricing {
+  color: var(--neutral-800, #112232);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.resources {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.resources2 {
+  color: var(--neutral-900, #071827);
+  text-align: left;
+  font: var(--h-4-bold, 400 16px/24px "Gilroy-Bold", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.blog-resource-library-developers-app-connectors-support-trust-center-browser-extension-mobile-app {
+  color: var(--neutral-800, #112232);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1000001663 {
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.solutions {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.solutions2 {
+  color: var(--neutral-900, #071827);
+  text-align: left;
+  font: var(--h-4-bold, 400 16px/24px "Gilroy-Bold", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.social-media-digital-marketing-customer-service-for-developers {
+  color: var(--neutral-800, #112232);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.features2 {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.features3 {
+  color: var(--neutral-900, #071827);
+  text-align: left;
+  font: var(--h-4-bold, 400 16px/24px "Gilroy-Bold", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.p2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.branded-links-mobile-links-campaign-management-analytics-qr-code-generation {
+  color: var(--neutral-800, #112232);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1000001664 {
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.products {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.products2 {
+  color: var(--neutral-900, #071827);
+  text-align: left;
+  font: var(--h-4-bold, 400 16px/24px "Gilroy-Bold", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.link-management-qr-codes-link-in-bio {
+  color: var(--neutral-800, #112232);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.legal {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.legal2 {
+  color: var(--neutral-900, #071827);
+  text-align: left;
+  font: var(--h-4-bold, 400 16px/24px "Gilroy-Bold", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.privacy-policy-cookie-policy-terms-of-service-acceptable-use-policy-code-of-conduct {
+  color: var(--neutral-800, #112232);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.company {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.company2 {
+  color: var(--neutral-900, #071827);
+  text-align: left;
+  font: var(--h-4-bold, 400 16px/24px "Gilroy-Bold", sans-serif);
+  position: relative;
+  width: 94px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-scissor-careers-partners-press-contact-reviews {
+  color: var(--neutral-800, #112232);
+  text-align: left;
+  font: 400 16px/24px "Gilroy-Medium", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-10 {
+  position: absolute;
+  inset: 0;
+}
+.frame-1000001714 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 203px;
+  top: 95px;
+}
+.vector92 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.vector-23 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.scissor2 {
+  color: var(--text-color-maintext, #141414);
+  text-align: left;
+  font: var(--h-2-bold, 400 24px/32px "Gilroy-Bold", sans-serif);
+  position: relative;
+  width: 99px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.socials {
+  padding: 0px 8px 0px 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.i-fi-social-twitter {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.svg-feather {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.i-fi-social-linkedin {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.i-fi-social-facebook {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.group-25 {
+  opacity: 0.699999988079071;
+  position: absolute;
+  left: 897px;
+  top: 309.27px;
+  overflow: visible;
+}
+.group-35 {
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 507.5px;
+  top: 229.15px;
+  overflow: visible;
+}
+.group-12 {
+  position: absolute;
+  inset: 0;
+}
+.frame-1000001666 {
+  padding: 0px 12px 0px 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1017px;
+  top: 502px;
+}
+.term-of-service {
+  color: var(--neutral-800, #112232);
+  text-align: left;
+  font: 400 14px/20px "Gilroy-Medium", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vector-5 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.security {
+  color: var(--neutral-800, #112232);
+  text-align: left;
+  font: 400 14px/20px "Gilroy-Medium", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vector-6 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.scissor-2023 {
+  color: var(--neutral-800, #112232);
+  text-align: left;
+  font: 400 14px/20px "Gilroy-Medium", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
